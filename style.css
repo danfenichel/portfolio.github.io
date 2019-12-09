@@ -17,5 +17,23 @@ nav {
 
 .navbar-brand {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-weight: bold;
 }
 
+/* About Content */
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+
+.content {
+    border: solid 1px #cccccc;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin-top: 15px;
+}
