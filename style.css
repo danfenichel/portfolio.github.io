@@ -37,3 +37,24 @@ h2 {
     font-weight: bold;
     margin-top: 15px;
 }
+
+#about {
+    margin-left: 10px;
+}
+
+/* footer */
+.copyright {
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    background-color: #666666;
+    color: white;
+    height: 50px;
+    padding: 30px;
+    border-top: 8px solid #4aaaa5;
+    margin-top: 30px;
+}
+
+.end {
+    position: fixed;
+}
